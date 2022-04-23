@@ -2,7 +2,7 @@
 I am @Manal-Jaber, a fullstack software engineer and Mobile Developer from Lebanon
 - 👀 I have learned several languages including Javascript, Php and Python.
 - 🔭I have worked on front end libraries and frameworks like React and Angular,and backend frameworks like Nodejs, Sitecore and Laravel. I have also worked on Mobile App Development using React Native and Kotlin.
-- 🌱 Learning flutter
+- 🌱 Learning Machine Learning
 <br>
 
 ## Connect with me
