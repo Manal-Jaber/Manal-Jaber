@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am @Manal-Jaber, a frontend software engineer from Lebanon.
-- 🔭I know HTML5, CSS3, Sass, Twailind, MaterialUI, JavaScript, front end libraries and frameworks like React and Angular,and backend frameworks like Nodejs, Sitecore and Laravel. I have also worked on Mobile App Development using React Native and Kotlin.
+- 🔭I know HTML5, CSS3, Sass, Bootstrap5, Twailind, MaterialUI, JavaScript, front end libraries and frameworks like React and Angular,and backend frameworks like Nodejs, Sitecore and Laravel. I have also worked on Mobile App Development using React Native and Kotlin.
 - 👀 I have learned several languages including Javascript, Php and Python.
 - 🌱 Working on QA Automtion using cypress.io
 <br>
