@@ -10,8 +10,6 @@ I am @Manal-Jaber, a mid frontend software engineer from Lebanon.
 
 ## Connect with me
 
-[<img align="left" alt="gitlab" src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>](https://gitlab.com/Manal-Jaber)
-
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/manal-jaber-79ba43100/)
 
 [<img align="left" alt="codepen" src="https://img.shields.io/badge/codepen-2c303b.svg?&style=for-the-badge&logo=codepen&logoColor=white"/>](https://codepen.io/manal-jaber)
