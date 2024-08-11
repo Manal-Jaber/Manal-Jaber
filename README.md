@@ -1,8 +1,10 @@
 ### Hello World 👋
-I am @Manal-Jaber, a frontend software engineer from Lebanon.
-- 🔭I know HTML5, CSS3, Sass, Bootstrap5, Twailind, MaterialUI, JavaScript, front end libraries and frameworks like React and Angular,and backend frameworks like Nodejs, Sitecore and Laravel. I have also worked on Mobile App Development using React Native and Kotlin.
-- 👀 I have learned several languages including Javascript, Php and Python.
-- 🌱 Working on QA Automtion using cypress.io
+I am @Manal-Jaber, a mid frontend software engineer from Lebanon.
+- 🔭I know HTML5, CSS3, Sass, Bootstrap5, Twailind, MaterialUI, JavaScript, front end libraries and frameworks like ReactJs, NextJs, and AngularJs
+- For backend I tried working in frameworks like Nodejs, Sitecore and Laravel
+- I have also worked on Mobile App Development using React Native and Kotlin.
+- 👀 I have learned several languages including C, C++, Javascript, Typescript, Php and Python.
+- 🌱 Side projects: I have worked on QA Automtion using cypress.io. I have also build an npm library: [yaml-component-library-integration](https://www.npmjs.com/package/yaml-component-library-integration)
 <br>
 
 ## Connect with me
